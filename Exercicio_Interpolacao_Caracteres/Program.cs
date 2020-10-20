@@ -40,7 +40,7 @@ namespace Exercicio_Interpolacao_Caracteres
             string primeiroNome2 = "Edi Junior";
             string cumprimento2 = "Olá";
 
-            Console.WriteLine($"{cumprimento} {primeiroNome2}!");
+            Console.WriteLine($"{cumprimento2} {primeiroNome2}!");
 
             /*
              Suponha que você precise usar um literal textual em seu modelo. Você pode usar o símbolo @ de prefixo 
