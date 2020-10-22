@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adicao_Conversao", "Adicao_Conversao\Adicao_Conversao.csproj", "{43448ED4-42CE-4D28-A0B9-AF768FC90F63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43448ED4-42CE-4D28-A0B9-AF768FC90F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43448ED4-42CE-4D28-A0B9-AF768FC90F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43448ED4-42CE-4D28-A0B9-AF768FC90F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43448ED4-42CE-4D28-A0B9-AF768FC90F63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {807B9410-D283-4AA8-817C-17E0159EC3B8}
+	EndGlobalSection
+EndGlobal
