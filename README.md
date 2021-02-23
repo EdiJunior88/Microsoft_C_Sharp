@@ -12,5 +12,6 @@ Resolução de exercícios e práticas de códigos baseado no site (https://docs
 <hr/>
 
 <h4><b>Módulos:</b> :blue_book: 8 módulos</h4>
-<h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
+<h4><b>Status do Curso:</b> :lock: Pausado</h4>
+<!-- <h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4> -->
 
