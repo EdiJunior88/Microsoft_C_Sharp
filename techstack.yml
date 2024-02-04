@@ -1,0 +1,74 @@
+repo_name: EdiJunior88/Microsoft_C_Sharp
+report_id: 958e425d92acfd5c1d8704bb5513100e
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-04T14:37:46+00:00'
+requested_by: EdiJunior88
+provider: github
+branch: master
+detected_tools_count: 5
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/EdiJunior88/Microsoft_C_Sharp
+  detection_source: Repo Metadata
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  version: '3.1'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: https://github.com/EdiJunior88/Microsoft_C_Sharp/blob/master/Ola_Mundo/Ola_Mundo.csproj
+  detection_source: Ola_Mundo/Ola_Mundo.csproj
+  last_updated_by: edijunior88
+  last_updated_on: 2020-10-01 00:07:15.000000000 Z
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: '3.1'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: https://github.com/EdiJunior88/Microsoft_C_Sharp/blob/master/Ola_Mundo/Ola_Mundo.csproj
+  detection_source: Ola_Mundo/Ola_Mundo.csproj
+  last_updated_by: edijunior88
+  last_updated_on: 2020-10-01 00:07:15.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/EdiJunior88/Microsoft_C_Sharp
+  detection_source: Repo Metadata
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/EdiJunior88/Microsoft_C_Sharp/blob/master/Ola_Mundo.sln
+  detection_source: Ola_Mundo.sln
+  last_updated_by: edijunior88
+  last_updated_on: 2020-10-01 00:07:15.000000000 Z
